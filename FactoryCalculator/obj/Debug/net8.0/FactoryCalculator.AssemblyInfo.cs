@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FactoryCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d721899ee39e2c7aea00470d79a24d62ba77fb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("FactoryCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FactoryCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

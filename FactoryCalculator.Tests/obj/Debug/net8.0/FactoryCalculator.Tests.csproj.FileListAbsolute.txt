@@ -104,3 +104,4 @@ E:\code\FactoryCalculator\FactoryCalculator.Tests\obj\Debug\net8.0\refint\Factor
 E:\code\FactoryCalculator\FactoryCalculator.Tests\obj\Debug\net8.0\FactoryCalculator.Tests.pdb
 E:\code\FactoryCalculator\FactoryCalculator.Tests\obj\Debug\net8.0\FactoryCalculator.Tests.genruntimeconfig.cache
 E:\code\FactoryCalculator\FactoryCalculator.Tests\obj\Debug\net8.0\ref\FactoryCalculator.Tests.dll
+E:\code\FactoryCalculator\FactoryCalculator.Tests\obj\Debug\net8.0\FactoryCalculator.Tests.sourcelink.json

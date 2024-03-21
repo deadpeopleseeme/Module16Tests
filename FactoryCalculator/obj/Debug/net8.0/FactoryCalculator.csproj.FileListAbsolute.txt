@@ -22,3 +22,4 @@ E:\code\FactoryCalculator\FactoryCalculator\obj\Debug\net8.0\refint\FactoryCalcu
 E:\code\FactoryCalculator\FactoryCalculator\obj\Debug\net8.0\FactoryCalculator.pdb
 E:\code\FactoryCalculator\FactoryCalculator\obj\Debug\net8.0\FactoryCalculator.genruntimeconfig.cache
 E:\code\FactoryCalculator\FactoryCalculator\obj\Debug\net8.0\ref\FactoryCalculator.dll
+E:\code\FactoryCalculator\FactoryCalculator\obj\Debug\net8.0\FactoryCalculator.sourcelink.json

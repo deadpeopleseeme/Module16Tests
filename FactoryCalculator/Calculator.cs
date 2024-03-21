@@ -1,5 +1,4 @@
-﻿
-namespace FactoryCalculator
+﻿namespace FactoryCalculator
 {
     public class Calculator
     {
