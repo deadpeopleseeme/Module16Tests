@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e3S36n7dziAFIvZBooFILdLRFeCdOmc1D9y4hKcDfYm2Qs8P/hz2fTsDTz1h0Jd/De8Dg/V3xgGvbQb4WhxV0A==",
+  "success": true,
+  "projectFilePath": "E:\\code\\FactoryCalculator\\FactoryCalculator\\FactoryCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eddy\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Eddy\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
